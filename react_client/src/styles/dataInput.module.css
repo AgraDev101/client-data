@@ -1,0 +1,36 @@
+
+
+.form {
+    max-width: 750px;
+    margin: 70px auto auto auto;
+}
+
+h3 {
+    max-width: 200px;
+    margin: 0 0 40px 0;
+    padding: 0 0 5px 0;
+    border-bottom: 1px solid blue;
+}
+
+.nameGroup {
+    display: flex;
+    justify-content: space-between;
+}
+
+.panDetails {
+    max-width: 485px;
+    margin: 25px 0 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.otherDetails {
+    max-width: 485px;
+    margin: 25px 0 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    margin: 40px 0 0 0;
+}
